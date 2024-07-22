@@ -1,0 +1,7 @@
+Required Python Libraries
+
+Flask (pip install Flask)
+pandas (pip install pandas)
+sqlite3 (Standard library in python)
+pathlib (Standard library in python)
+Werkzeug (pip install Werkzeug)
